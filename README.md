@@ -38,7 +38,7 @@ https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="c++" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
-<img src="https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg" alt="bash" width="80" height="80"/>
+<img src="https://root.cern.ch/img/logos/ROOT_Logo/misc/logo_full-350.png" alt="bash" width="80" height="80"/>
 </p>
 
 
