@@ -5,12 +5,12 @@
 
 
 
+<!--
 
+ https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg
+ https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg
 
-
-
-
-
+-->
 
 
 
@@ -23,10 +23,10 @@
 
 <h2> 🌌 &nbsp;Some tools I commonly use and some that I learned</h2>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-plain.svg" alt="python" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-plain.svg" alt="python" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="c++" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
 </p>
 
 
