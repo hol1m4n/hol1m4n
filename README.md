@@ -1,11 +1,16 @@
 <!-- ## Holman here 👋 🔭 -->
 
-<h1 align="center">Holman here 👋 🔭 </h1>
+<h1 align="center">Holman here 👋 🔭 💻 </h1>
+
+
+
+
+<h2 align="center"> Data Scientist Jr. | Astrophysicist  </h3>
+
+I’m an astrophysics PhD student transitioning my research-grade data skills into the Data Science & ML industry. I’m actively seeking hands-on projects (internships, junior roles, or short contracts) where I can ship measurable value fast—clean data, build baselines, and iterate toward production. Comfortable with Python, statistics, and ML workflows, I’m especially interested in time series, NLP, and predictive modeling. I'm eager to tackle new challenges in this dynamic field. Known for my adaptability and quick learning, I thrive in environments that value continuous growth and innovation.
+
 <h3 align="center">Curious person about cosmology and extragalactic astrophysics...  </h3>
 
-
-
-I'm an astrophysics PhD student with hands-on experience in data science and machine learning along with a passion for science outreach. I am enthusiastic about applying my analytical skills and scientific rigor to the data science industry and eager to tackle new challenges in this dynamic field. Known for my adaptability and quick learning, I thrive in environments that value continuous growth and innovation.
 
 In my master I worked with [eBOSS/SDSS](https://www.sdss4.org/surveys/eboss/) and [DESI EDR](https://data.desi.lbl.gov/doc/releases/edr/) data to produce a calculation of the one-dimensional flux power spectrum of Lyman-$\alpha$ forests, a valuable probe to constrict parameters and properties of the Universe. I used to be part of the Lyman-$\alpha$ research in the [DESI](https://www.desi.lbl.gov/) collaboration.
 
