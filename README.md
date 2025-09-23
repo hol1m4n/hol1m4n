@@ -29,7 +29,7 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hol1m4n&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hol1m4n&show_icons=true&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hol1m4n&hide_progress=true)
