@@ -7,8 +7,19 @@
 
 <!--
 
- https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg
- https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/ssh/ssh-original-wordmark.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/r/r-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/ubuntu/ubuntu-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg
+https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg
+
+
 
 -->
 
@@ -27,6 +38,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="c++" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
+ <img src="https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg" alt="bash" width="80" height="80"/>
 </p>
 
 
