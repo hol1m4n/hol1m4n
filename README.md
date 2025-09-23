@@ -5,6 +5,11 @@
 
 
 
+I'm an astrophysics PhD student with hands-on experience in data science and machine learning along with a passion for science outreach. I am enthusiastic about applying my analytical skills and scientific rigor to the data science industry and eager to tackle new challenges in this dynamic field. Known for my adaptability and quick learning, I thrive in environments that value continuous growth and innovation.
+
+
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=hol1m4n&show_icons=true&theme=swift&border_radius=15&hide=stars,prs&rank_icon=github" />
