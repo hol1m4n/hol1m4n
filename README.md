@@ -8,21 +8,19 @@
 <h2 align="center"> Data Scientist Jr. | Astrophysicist  </h3>
 
 
-<div style="text-align: justify;">
+
 I’m an astrophysics PhD student transitioning my research-grade data skills into the Data Science & ML industry. I’m actively seeking hands-on projects (internships, junior roles, or short contracts) where I can ship measurable value fast—clean data, build baselines, and iterate toward production. Comfortable with Python, statistics, and ML workflows, I’m especially interested in time series, NLP, and predictive modeling. I'm eager to tackle new challenges in this dynamic field. Known for my adaptability and quick learning, I thrive in environments that value continuous growth and innovation.
-</div>
 
 
 
 <h3 align="center">Curious person about cosmology and extragalactic astrophysics...  </h3>
 
-<div style="text-align: justify;">
-In my master I worked with [eBOSS/SDSS](https://www.sdss4.org/surveys/eboss/) and [DESI EDR](https://data.desi.lbl.gov/doc/releases/edr/) data to produce a calculation of the one-dimensional flux power spectrum of Lyman-$\alpha$ forests, a valuable probe to constrict parameters and properties of the Universe. I used to be part of the Lyman-$\alpha$ research group inside the [DESI](https://www.desi.lbl.gov/) collaboration.
-</div>
 
-<div style="text-align: justify;">
+In my master I worked with [eBOSS/SDSS](https://www.sdss4.org/surveys/eboss/) and [DESI EDR](https://data.desi.lbl.gov/doc/releases/edr/) data to produce a calculation of the one-dimensional flux power spectrum of Lyman-$\alpha$ forests, a valuable probe to constrict parameters and properties of the Universe. I used to be part of the Lyman-$\alpha$ research group inside the [DESI](https://www.desi.lbl.gov/) collaboration.
+
+
 Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HII Regions (GEHRs), like these [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/), in order to get a measurement of the Hubble-Lemaître constant (${H}_{0}$) through the $L-\sigma$ relation, this aiming to alleviate the so-called Hubble tension.
-</div>
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
