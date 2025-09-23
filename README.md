@@ -50,7 +50,7 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ssh/ssh-original-wordmark.svg" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/r/r-original.svg" alt="bash" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex.eps" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ubuntu/ubuntu-original.svg" alt="bash" width="80" height="80"/>
@@ -59,7 +59,6 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vim/vim-original.svg" alt="bash" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg" alt="bash" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.svg" alt="bash" width="80" height="80"/>
 
 
