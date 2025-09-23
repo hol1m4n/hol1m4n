@@ -7,7 +7,9 @@
 
 I'm an astrophysics PhD student with hands-on experience in data science and machine learning along with a passion for science outreach. I am enthusiastic about applying my analytical skills and scientific rigor to the data science industry and eager to tackle new challenges in this dynamic field. Known for my adaptability and quick learning, I thrive in environments that value continuous growth and innovation.
 
+In my master I worked with [eBOSS/SDSS](https://www.sdss4.org/surveys/eboss/) and [DESI EDR](https://data.desi.lbl.gov/doc/releases/edr/) data to produce a calculation of the one-dimensional flux power spectrum of Lyman-$\alpha$ forests, a valuable probe to constrict parameters and properties of the Universe. I used to be part of the Lyman-$\alpha$ research in the [DESI](https://www.desi.lbl.gov/) collaboration.
 
+Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HII Regions (GEHRs), like these [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/), in order to get a measurement of the Hubble-Lemaître constant (${H}_{0}$) through the $L-\sigma$ relation, this aiming to alleviate the so-called Hubble tension.
 
 
 
@@ -26,11 +28,6 @@ I'm an astrophysics PhD student with hands-on experience in data science and mac
 </picture>
   
 
-
-
-<!--
-![Snake animation](https://github.com/hol1m4n/hol1m4n/blob/output/github-contribution-grid-snake.svg)
--->
 
 
 
@@ -58,44 +55,7 @@ I'm an astrophysics PhD student with hands-on experience in data science and mac
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="ScikitLearn" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vim/vim-original.svg" alt="Vim" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.svg" alt="Wolfram" width="80" height="80"/>
-
-
-
-
-
-
-
-
-
-
-
-
-  
 </p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!--
-**hol1m4n/hol1m4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
