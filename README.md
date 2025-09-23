@@ -23,7 +23,7 @@
 
 <h2> 🌌 &nbsp;Some tools I commonly use and some that I learned</h2>
 <p align="left">
-<img src="python.svg" alt="vscode" width="45" height="45"/>
+<img src="[python.svg](https://www.iconfinder.com/icons/4375050/download/svg/4096)" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
