@@ -28,7 +28,8 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hol1m4n&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hol1m4n&hide_progress=true)
+
 
 
 
