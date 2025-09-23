@@ -17,7 +17,12 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg
 https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg
 https://github.com/devicons/devicon/blob/v2.17.0/icons/ubuntu/ubuntu-original.svg
 https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg
-https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/vim/vim-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg
+https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.svg
 
 
 
@@ -40,6 +45,35 @@ https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
 <img src="https://root.cern.ch/img/logos/ROOT_Logo/misc/logo_full-350.png" alt="bash" width="80" height="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Manim_icon.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ssh/ssh-original-wordmark.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/r/r-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ubuntu/ubuntu-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vim/vim-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg" alt="bash" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.svg" alt="bash" width="80" height="80"/>
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </p>
 
 
