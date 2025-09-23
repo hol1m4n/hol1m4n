@@ -25,7 +25,7 @@
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-plain.svg" alt="python" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/>
 </p>
 
 
