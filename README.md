@@ -5,29 +5,6 @@
 
 
 
-<!--
-
-https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-plain.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/ssh/ssh-original-wordmark.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/r/r-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/ubuntu/ubuntu-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/vim/vim-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg
-https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.svg
-
-
-
--->
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hol1m4n&show_icons=true&theme=dark)
 
@@ -35,7 +12,12 @@ https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hol1m4n&hide_progress=true)
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hol1m4n&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hol1m4n&hide_progress=true" />
+</a>
 
 
 
