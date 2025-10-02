@@ -62,6 +62,7 @@ Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HI
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VScode" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" alt="Matlab" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg" alt="SQLite" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="ScikitLearn" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vim/vim-original.svg" alt="Vim" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/wolfram/wolfram-original.svg" alt="Wolfram" width="80" height="80"/>
