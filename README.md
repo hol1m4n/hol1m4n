@@ -16,7 +16,7 @@ I’m an astrophysics PhD student transitioning my research-grade data skills in
 <h3 align="center">Curious person about cosmology and extragalactic astrophysics...  </h3>
 
 
-In my master I worked with [eBOSS/SDSS](https://www.sdss4.org/surveys/eboss/) and [DESI EDR](https://data.desi.lbl.gov/doc/releases/edr/) data to produce a calculation of the one-dimensional flux power spectrum of Lyman-$\alpha$ forests, a valuable probe to constrict parameters and properties of the Universe. I used to be part of the Lyman-$\alpha$ research group inside the [DESI](https://www.desi.lbl.gov/) collaboration.
+In my master I worked with [eBOSS/SDSS](https://www.sdss4.org/surveys/eboss/) and [DESI EDR](https://data.desi.lbl.gov/doc/releases/edr/) data to produce a calculation of the one-dimensional flux power spectrum of Lyman-${\alpha}$ forests, a valuable probe to constrict parameters and properties of the Universe. I used to be part of the Lyman-${\alpha}$ research group inside the [DESI](https://www.desi.lbl.gov/) collaboration.
 
 
 Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HII Regions (GEHRs), like these [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/), in order to get a measurement of the Hubble-Lemaître constant (${H}_{0}$) through the $L-\sigma$ relation, this aiming to alleviate the so-called Hubble tension.
