@@ -47,6 +47,7 @@ Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HI
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-plain.svg" alt="python" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="c++" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/julia/julia-original-wordmark.svg" alt="julia" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
 <img src="https://root.cern.ch/img/logos/ROOT_Logo/misc/logo_full-350.png" alt="ROOT" width="80" height="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Manim_icon.svg" alt="bash" width="80" height="80"/>
