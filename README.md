@@ -25,10 +25,10 @@ Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HI
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=hol1m4n&show_icons=true&theme=swift&border_radius=15&hide=stars,prs&rank_icon=github" />
-</a>
+</a>-->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hol1m4n&hide_progress=true&theme=swift&border_radius=15" />
-</a> -->
+</a> 
 
 
 <picture>
