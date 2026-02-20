@@ -8,6 +8,13 @@
 <h2 align="center"> Data Scientist Jr. | Astrophysicist  </h3>
 
 
+<div align="center">
+<picture >
+<img src="https://github.com/hol1m4n/hol1m4n/blob/main/me2.png" alt="meAI" width="8000" height="500" />
+</picture>
+</div>
+
+
 
 I’m an astrophysics PhD student transitioning my research-grade data skills into the Data Science & ML industry. I’m actively seeking hands-on projects (internships, junior roles, or short contracts) where I can ship measurable value fast—clean data, build baselines, and iterate toward production. Comfortable with Python, statistics, and ML workflows, I’m especially interested in time series, NLP, and predictive modeling. I'm eager to tackle new challenges in this dynamic field. Known for my adaptability and quick learning, I thrive in environments that value continuous growth and innovation.
 
