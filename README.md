@@ -38,7 +38,10 @@ Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HI
   <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/overview.svg#gh-dark-mode-only" />
 </div>
 
-
+<div align="center">
+  <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/languages.svg#gh-light-mode-only" />
+  <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/overview.svg#gh-light-mode-only" />
+</div>
 
 
 <div align="center">
