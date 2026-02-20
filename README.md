@@ -23,16 +23,22 @@ Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HI
 
 
 
-![](https://github.com/hol1m4n/stats_repo/blob/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/hol1m4n/stats_repo/blob/master/generated/overview.svg#gh-dark-mode-only)
+
+<div align="center">
+  <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/overview.svg#gh-dark-mode-only" />
+</div>
 
 
-<picture>
+
+
+<div align="center">
+<picture >
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hol1m4n/hol1m4n/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hol1m4n/hol1m4n/output/github-contribution-grid-snake.svg">
 <img alt="snake animation" src="https://raw.githubusercontent.com/hol1m4n/hol1m4n/output/github-contribution-grid-snake.svg">
 </picture>
-  
+</div>
 
 
 
