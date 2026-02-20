@@ -53,7 +53,7 @@ Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HI
 
 
 
-<h2> 🌌 &nbsp;Some tools I commonly use and some that I learned</h2>
+<h2> 🌌 &nbsp; Tools that I'm familiar with or I use day by day...</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-plain.svg" alt="python" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="80" height="80"/>
