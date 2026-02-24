@@ -43,7 +43,7 @@ I build tools for:
 
 **Technical Stack:**
 
-Python (NumPy, SciPy, Pandas, Astropy, Matplotlib, Scikit-learn, TensorFlow) \
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-plain.svg" alt="python" width="20" height="20"/> Python (NumPy, SciPy, Pandas, Astropy, Matplotlib, Scikit-learn, TensorFlow) \
 C/C++ \
 Bash & Linux \
 Git & version control \
@@ -63,13 +63,18 @@ Astrophysics • Data Science • Statistical Modeling • AI for Science
 <h3 align="center"> I really like... well, the image above is pretty self-explanatory about what I enjoy in life 😛. I'm open to new projects / collaborations in academia or industry; places where I can gain experience through growth and innovation. </h3>
 
 
-
+<table>
+  <tr>
+    <td><b>Left Column</b><br>Content here.</td>
+    <td><b>Right Column</b><br>Content here.</td>
+  </tr>
+</table>
 
 
 <div align="center">
   <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/overview.svg#gh-dark-mode-only" />
-</div>
+</div> 
 
 <div align="center">
   <img src="https://github.com/hol1m4n/stats_repo/blob/master/generated/languages.svg#gh-light-mode-only" />
