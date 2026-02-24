@@ -99,7 +99,7 @@ Cosmology • Large-Scale Structure • Intergalactic Medium • Bayesian Statis
 
 **I’m interested in collaborations at the interface between:**
 
-Astrophysics • Data Science • Statistical Modeling • AI for Science • Metaheuristic & Machine Learning
+Astrophysics • Data Science • Statistical Modeling • AI for Science • Metaheuristics & Machine Learning Optimization
 
 
 
