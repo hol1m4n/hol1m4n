@@ -5,7 +5,7 @@
 
 
 
-<h2 align="center"> Astrophysicist | Data Scientist </h2>
+<h2 align="center"> Astrophysics PhD Student | Bayesian Inference | Large-Scale Data Analysis | Scientific Computing </h2>
 
 
 <div align="center">
@@ -14,21 +14,54 @@
 </picture>
 </div>
 
-<h3 align="center"> A passionate about science, coding and nature... </h3>
+<h3 align="center"> Exploring the Universe through data, statistics and code... </h3>
+
+I am an astrophysicist working at the intersection of cosmology, statistical inference and large astronomical surveys. My research focuses on extracting cosmological information from HII galaxies (like these guys [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/)) using Bayesian frameworks and high-performance data pipelines.
+
+Current status:
+
+* PhD student in Astrophysics (Universidad de Guanajuato)
+* ${H}_{0}$ measurement and [${H}_{0}$ tension](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/) through the [$L-\sigma$ relation](https://ui.adsabs.harvard.edu/abs/2025MNRAS.538.1264C/abstract)
+* Working on [nested sampling](https://github.com/JohannesBuchner/MultiNest) and cosmological parameter estimation
+
+Featured work methods:
+
+* Bayesian inference (nested sampling, likelihood modeling)
+* Spectral analysis and large-scale survey data ([STARLIGHT](https://ui.adsabs.harvard.edu/abs/2011ascl.soft08006C/abstract), [FADO](https://ui.adsabs.harvard.edu/abs/2017A%26A...603A..63G/abstract), and [CIGALE](https://ui.adsabs.harvard.edu/abs/2020AAS...23522801B/abstract))
+* Statistical modeling and uncertainty quantification
+* Scientific Python ecosystem
+* HPC environments (SSH, SLURM, parallelization)
+
+I build tools for:
+
+* Reproducible cosmological analysis
+* Survey data handling and visualization
+* Statistical modeling for large datasets
+* [Scientific communication](https://github.com/hol1m4n/PhysAstroNotes) and [outreach](https://sites.google.com/view/cosmojungla/)
+* I was former member of the [DESI Collaboration](https://www.desi.lbl.gov/) for over a year (Lyman-$\alpha$ group)
+* [Experience with >200,000 spectra from eBOSS & DESI](http://repositorio.ugto.mx/handle/20.500.12059/11899)
+
+**Technical Stack:**
+
+Python (NumPy, SciPy, Pandas, Astropy, Matplotlib, Scikit-learn, TensorFlow) \
+C/C++ \
+Bash & Linux \
+Git & version control \
+HPC workflows 
+
+**Research Interests:**
+
+Cosmology • Large-Scale Structure • Intergalactic Medium • Bayesian Statistics • Dark Matter Models • Survey Systematics • Dark Energy Models • Extragalactic Astrophysics
+
+**I’m interested in collaborations at the interface between:**
+
+Astrophysics • Data Science • Statistical Modeling • AI for Science 
 
 
 
-I’m an astrophysics PhD student transitioning my research-grade data skills into the Data Science & ML industry. I’m actively seeking hands-on projects (internships, junior roles, or short contracts) where I can ship measurable value fast—clean data, build baselines, and iterate toward production. Comfortable with Python, statistics, and ML workflows, I’m especially interested in time series, NLP, and predictive modeling. I'm eager to tackle new challenges in this dynamic field. Known for my adaptability and quick learning, I thrive in environments that value continuous growth and innovation.
 
+<h3 align="center"> I really like... well, the image above is pretty self-explanatory about what I enjoy in life 😛. I'm open to new projects / collaborations in academia or industry; places where I can gain experience through growth and innovation. </h3>
 
-
-
-
-
-In my master I worked with [eBOSS/SDSS](https://www.sdss4.org/surveys/eboss/) and [DESI EDR](https://data.desi.lbl.gov/doc/releases/edr/) data to produce a calculation of the one-dimensional flux power spectrum of Lyman-$\alpha$ forests, a valuable probe to constrict parameters and properties of the Universe. I used to be part of the Lyman-$\alpha$ research group inside the [DESI](https://www.desi.lbl.gov/) collaboration.
-
-
-Now, in my PhD, I'm working with HII galaxies (HIIGs) and Giant Extragalactic HII Regions (GEHRs), like these [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/), in order to get a measurement of the Hubble-Lemaître constant (${H}_{0}$) through the $L-\sigma$ relation, this aiming to alleviate the so-called Hubble tension.
 
 
 
