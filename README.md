@@ -37,7 +37,7 @@ I build tools for:
 * Reproducible cosmological analysis
 * Survey data handling and visualization
 * Statistical modeling for large datasets
-* [Scientific communication](https://github.com/hol1m4n/PhysAstroNotes) and [outreach](https://sites.google.com/view/cosmojungla/)
+* [Scientific communication](https://github.com/hol1m4n/PhysAstroNotes) and [outreach](https://sites.google.com/view/cosmojungla/). I'm an animation enthusiast; I use [Manim](https://github.com/3b1b/manim) to create presentations and science clips.
 * I was former member of the [DESI Collaboration](https://www.desi.lbl.gov/) for over a year (Lyman - $\alpha$ group)
 * [Experience with >200,000 spectra from eBOSS & DESI](http://repositorio.ugto.mx/handle/20.500.12059/11899)
 
