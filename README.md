@@ -5,7 +5,7 @@
 
 
 
-<h2 align="center"> Astrophysics PhD Student | Bayesian Inference | Large-Scale Data Analysis | Scientific Computing </h2>
+<h2 align="center"> Cosmology & Astrophysics PhD Student focused on: Bayesian Inference - Large-Scale Data Analysis - Scientific Computing </h2>
 
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <h3 align="center"> 🌌 Exploring the Universe through data, statistics and code... </h3>
 
-I am an astrophysicist working at the intersection of cosmology, statistical inference and large astronomical surveys. My research focuses on extracting cosmological information from HII galaxies (like these guys [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/)) using Bayesian frameworks and high-performance data pipelines.
+I am an astrophysicist working at the intersection of cosmology, statistical inference and large astronomical surveys. My research focuses on extracting cosmological information from HII galaxies (like these [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/)) using Bayesian frameworks and high-performance data pipelines.
 
 Current status:
 
