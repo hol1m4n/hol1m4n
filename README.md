@@ -16,32 +16,29 @@
 
 <h3 align="center"> 🌌 Exploring the Universe through data, statistics and code... </h3>
 
-I am an astrophysicist working at the intersection of cosmology, statistical inference and large astronomical surveys. My research focuses on extracting cosmological information from HII galaxies (like these [NGC 604](https://esahubble.org/images/opo9627c/) / [I Zw 18](https://esahubble.org/images/opo0435a/)) using Bayesian frameworks and high-performance data pipelines.
+<p align="center">
+  <b>Astrophysicist & Data Scientist</b> | Bayesian Inference • Large-Scale Data • HPC
+</p>
 
-Current status:
+<p align="center">
+  <a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sites.google.com/view/cosmojungla/"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-* PhD student in Astrophysics (Universidad de Guanajuato)
-* ${H}_{0}$ measurement and [Hubble tension](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/) through the $L-\sigma$ [relation](https://ui.adsabs.harvard.edu/abs/2025MNRAS.538.1264C/abstract)
-* Working on [nested sampling](https://github.com/JohannesBuchner/MultiNest) and cosmological parameter estimation
+---
 
-Featured work methods:
+### 🌌 Summary Focus
+Astrophysicist working at the intersection of cosmology, statistical modeling, and high-performance computing. 
 
-* Bayesian inference (nested sampling, likelihood modeling)
-* Spectral analysis and large-scale survey data ([*STARLIGHT*](https://ui.adsabs.harvard.edu/abs/2011ascl.soft08006C/abstract), [*FADO*](https://ui.adsabs.harvard.edu/abs/2017A%26A...603A..63G/abstract), and [*CIGALE*](https://ui.adsabs.harvard.edu/abs/2020AAS...23522801B/abstract))
-* Statistical modeling and uncertainty quantification
-* Scientific Python ecosystem
-* HPC environments (SSH, SLURM, parallelization)
+* **Large-Scale Data Pipelines:** Experience processing >200,000 spectra from SDSS/eBOSS & DESI surveys.
+* **Statistical Inference:** Bayesian frameworks, nested sampling (MultiNest), and MCMC for cosmological parameter estimation ($H_0$ & Dark Energy).
+* **HPC & Parallel Computing:** Scaling data analysis pipelines across cluster environments (SLURM, Bash, MPI).
+* **Scientific Communication:** Animation & visualization tools (Manim, Plotly) for complex data insights.
 
-I build tools for:
+---
 
-* Reproducible cosmological analysis
-* Survey data handling and visualization
-* Statistical modeling for large datasets
-* [Scientific communication](https://github.com/hol1m4n/PhysAstroNotes) and [outreach](https://sites.google.com/view/cosmojungla/). I'm an animation enthusiast; I use [Manim](https://github.com/3b1b/manim) to create presentations and science clips.
-* I was former member of the [DESI Collaboration](https://www.desi.lbl.gov/) for over a year (Lyman - $\alpha$ group)
-* [Experience with >200,000 spectra from eBOSS & DESI](http://repositorio.ugto.mx/handle/20.500.12059/11899)
-
-<h2 align="center"> 💻 Technical Stack  </h2>
+<h2 align="center"> 💻 Tech Stack  </h2>
 
 
 <div align="center">
@@ -85,27 +82,6 @@ Additional tools: <p align="center">
 
 
 </h3>
-
-
-
-
-
-
-
-
-
-<h2 align="center">  &nbsp; I really like... well, the image above is pretty self-explanatory about what I enjoy in life 😛 </h2>
-
-**I'm open to new projects / collaborations in academia or industry; places where I can gain experience through growth and innovation.**
-
-**Research Interests:**
-
-Cosmology • Large-Scale Structure • Intergalactic Medium • Bayesian Statistics • Dark Matter Models • Survey Systematics • Dark Energy Models • Extragalactic Astrophysics • Extragalactic HII regions • Spectral synthesis
-
-**I’m interested in collaborations at the interface between:**
-
-Astrophysics • Data Science • Statistical Modeling • AI for Science • Metaheuristics & Machine Learning Optimization
-
 
 
 
