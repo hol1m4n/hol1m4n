@@ -31,6 +31,7 @@
 ### 🌌 Summary Focus
 Astrophysicist working at the intersection of cosmology, statistical modeling, and high-performance computing. 
 
+* **Cosmology, Extragalactic Astrophysics & HII Galaxies:** PhD research on HII galaxies as alternative distance tracers. Cosmological parameters constrains and the exploration of alternatives/extensions of $\Lambda$$CDM$.
 * **Large-Scale Data Pipelines:** Experience processing >200,000 spectra from SDSS/eBOSS & DESI surveys.
 * **Statistical Inference:** Bayesian frameworks, nested sampling (MultiNest), and MCMC for cosmological parameter estimation ($H_0$ & Dark Energy).
 * **HPC & Parallel Computing:** Scaling data analysis pipelines across cluster environments (SLURM, Bash, MPI).
